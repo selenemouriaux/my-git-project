@@ -5,6 +5,7 @@
  */
 function genHome()
 {
+// hee heee ! ^^
     // Sélection des articles
     $articleModel = new ArticleModel();
     $articles = $articleModel->getAllArticles(5);
